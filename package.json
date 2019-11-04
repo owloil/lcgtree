@@ -1,0 +1,16 @@
+{
+  "name": "@owloil/lcgtree",
+  "version": "1.0.0",
+  "description": "Linear Congruential Generator Tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/owloil/lcgtree.git"
+  },
+  "homepage": "https://github.com/owloil/lcgtree",
+  "author": "owloil",
+  "license": "ISC"
+}
